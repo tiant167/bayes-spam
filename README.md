@@ -1,5 +1,5 @@
 # Bayes Spam
-针对中文，使用朴素贝叶斯对语句进行学习、分类。主要使用了 [batys](https://github.com/ttezel/bayes) 和 [nodejieba](https://github.com/yanyiwu/nodejieba) 两个库。
+针对中文，使用朴素贝叶斯对语句进行学习、分类。主要使用了 [bayes](https://github.com/ttezel/bayes) 和 [nodejieba](https://github.com/yanyiwu/nodejieba) 两个库。
 
 ## Structure
 - `index.js` -- 通过学习结果来判定句子的类别。句子硬编码在里面了。

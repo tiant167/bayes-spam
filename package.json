@@ -12,6 +12,7 @@
   "author": "haotianchai",
   "license": "ISC",
   "dependencies": {
+    "bayes": "0.0.4",
     "line-reader": "^0.2.4",
     "nodejieba": "^1.0.1"
   }
